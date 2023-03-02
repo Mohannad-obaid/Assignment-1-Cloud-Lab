@@ -11,8 +11,10 @@ List View.
 Stretch goal: add progress dialog to expose the uploading process.
 
 
- Getting Started
+ ### Getting Started :
 
-install project 
-Run flutter pub get
-flutter run lib/main.dart
+1-install project 
+
+2-Run flutter pub get
+
+3-flutter run lib/main.dart
