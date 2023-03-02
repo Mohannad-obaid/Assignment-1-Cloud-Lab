@@ -1,16 +1,18 @@
-# mcc
+# Mobile cloud computing lab
 
-A new Flutter project.
 
-## Getting Started
+## Assignment one :
 
-This project is a starting point for a Flutter application.
+In this assignment, you are required to develop a small Android application that allows the user to add
+his contact details such as Name, Number, and address.
+Each time the user clicks on the button "Save" data you be saved in firebase.
+Whenever the application is opening, you have to fetch contacts from firebase and show them on the
+List View.
+Stretch goal: add progress dialog to expose the uploading process.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+install project 
+Run flutter pub get
+flutter run lib/main.dart
